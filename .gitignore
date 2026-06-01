@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+
+# Model Weights (too large for GitHub)
+model/
+
+# Downloaded NLTK Data
+nltk_data/
+
+# Jupyter
+.ipynb_checkpoints/

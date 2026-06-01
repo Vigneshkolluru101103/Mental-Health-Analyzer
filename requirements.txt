@@ -1,0 +1,9 @@
+gdown
+torch
+torchvision
+numpy
+pandas
+transformers
+streamlit
+regex
+nltk
