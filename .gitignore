@@ -10,7 +10,7 @@ venv/
 .venv/
 
 # Model Weights (too large for GitHub)
-model/
+model/model.safetensors
 
 # Downloaded NLTK Data
 nltk_data/
