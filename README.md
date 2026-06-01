@@ -1,5 +1,7 @@
 # 🧠 Mental-Health-Analyzer
 
+🚀 **Live Demo:** [Click here to try the application!](https://mental-health-analyzer-dpqszzfzrzrleepufyoi7h.streamlit.app/)
+
 **Description:**  
 Classifies mental health status from text (sentence) using a BERT-based NLP model. Supports both single text input and batch CSV predictions with probability visualization. The model is trained on mental health-related text datasets and predicts categories like Anxiety, Depression, Stress, etc Achieving 90% accuracy.
 
